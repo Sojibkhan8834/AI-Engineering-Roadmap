@@ -1,280 +1,256 @@
-🚀 AI Engineering Roadmap (Beginner → Advanced)
-📍 ধাপ ১: Programming Fundamentals (১–২ মাস)
-
-ভাষা: Python
-
-যা শিখবেন:
-
-Variables
-Data Types
-Loops
-Functions
-OOP (Object Oriented Programming)
-File Handling
-Exception Handling
+# 🚀 AI Engineering Roadmap (Beginner → Advanced)
 
-শিখার রিসোর্স:
+> 📚 প্রতিটি ধাপের শেষে বাংলা, হিন্দি এবং ইংরেজি ফ্রি রিসোর্স দেওয়া হয়েছে।
 
-Python Official Tutorial
-freeCodeCamp Python
-Programming Hero (বাংলা)
-Apna College Python
-📍 ধাপ ২: Mathematics (১–২ মাস)
+---
 
-AI-এর জন্য প্রয়োজনীয়:
+# 📍 ধাপ ১: Programming Fundamentals (Python)
 
-Linear Algebra
-Matrix
-Vector
-Dot Product
-Statistics
-Mean
-Median
-Variance
-Probability
-Calculus
-Derivatives
-Gradient
-Chain Rule (Basic)
-📍 ধাপ ৩: Python Libraries
+## যা শিখবেন
+- Variables
+- Data Types
+- Loops
+- Functions
+- OOP
+- File Handling
+- Exception Handling
 
-শিখুন:
-
-NumPy
-Pandas
-Matplotlib
-Seaborn
-
-প্র্যাকটিস:
+## 📚 Free Learning Resources
 
-CSV Data Analysis
-Data Cleaning
-Visualization
-📍 ধাপ ৪: SQL (২ সপ্তাহ)
-
-যা শিখবেন:
-
-SELECT
-WHERE
-GROUP BY
-JOIN
-ORDER BY
-Subquery
-
-Database:
-
-MySQL
-PostgreSQL
-📍 ধাপ ৫: Git & GitHub
-
-শিখুন:
-
-Git Init
-Commit
-Branch
-Merge
-Push
-Pull Request
-
-GitHub Portfolio তৈরি করুন।
-
-📍 ধাপ ৬: Machine Learning (২–৩ মাস)
-
-Library:
-
-Scikit-learn
-
-Algorithms:
+### 🇧🇩 বাংলা
+- Programming Hero (Python Playlist)
+- Anisul Islam
+- Stack Learner
+- Learn with Sumit
 
-Linear Regression
-Logistic Regression
-Decision Tree
-Random Forest
-SVM
-KNN
-Naive Bayes
-Clustering (K-Means)
+### 🇮🇳 হিন্দি
+- CodeWithHarry
+- Apna College
+- College Wallah
+- Coder Army
 
-Concepts:
+### 🌍 English
+- Python Official Tutorial
+- freeCodeCamp
+- Bro Code
+- Harvard CS50 Python
+- Corey Schafer
 
-Train/Test Split
-Cross Validation
-Overfitting
-Underfitting
-Feature Engineering
-📍 ধাপ ৭: Deep Learning
-
-Framework:
+---
 
-PyTorch (অথবা TensorFlow)
+# 📍 ধাপ ২: Mathematics
 
-শিখুন:
+## Topics
+- Linear Algebra
+- Statistics
+- Probability
+- Calculus
 
-Neural Networks
-Backpropagation
-CNN
-RNN
-LSTM
-📍 ধাপ ৮: NLP (Natural Language Processing)
-
-Libraries:
+## 📚 Free Learning Resources
 
-NLTK
-spaCy
-Hugging Face Transformers
-
-Topics:
-
-Tokenization
-Embedding
-Sentiment Analysis
-Text Classification
-Translation
-Summarization
-📍 ধাপ ৯: Large Language Models (LLMs)
-
-শিখুন:
-
-Transformer
-Attention Mechanism
-GPT
-BERT
-Llama
-Mistral
-Gemma
-📍 ধাপ ১০: Prompt Engineering
-
-শিখুন:
-
-Zero-shot
-Few-shot
-Chain of Thought
-System Prompt
-Prompt Optimization
-📍 ধাপ ১১: LangChain
-
-Topics:
-
-Chains
-Memory
-Tools
-Agents
-Retrieval
-📍 ধাপ ১২: RAG (Retrieval Augmented Generation)
-
-শিখুন:
-
-Embeddings
-Chunking
-Vector Database
-Semantic Search
-
-Vector DB:
-
-FAISS
-ChromaDB
-Pinecone
-Weaviate
-📍 ধাপ ১৩: AI Agents
-
-Frameworks:
-
-LangGraph
-CrewAI
-AutoGen
-
-শিখুন:
-
-Multi-Agent
-Planning
-Tool Calling
-📍 ধাপ ১৪: Deployment
-
-Backend:
-
-FastAPI
-Flask
-
-Deployment:
-
-Docker
-Render
-Railway
-Hugging Face Spaces
-AWS (Basic)
-📍 ধাপ ১৫: MLOps
-
-শিখুন:
-
-MLflow
-DVC
-Docker
-CI/CD
-Kubernetes (Basic)
-📍 ধাপ ১৬: Cloud
-AWS
-Azure
-Google Cloud (GCP)
-
-বিশেষ করে:
-
-S3
-EC2
-Lambda
-📍 ধাপ ১৭: Projects (সবচেয়ে গুরুত্বপূর্ণ)
-
-কমপক্ষে ১০–১৫টি প্রজেক্ট করুন।
-
-উদাহরণ:
-
-Chatbot
-PDF Chat AI
-Resume Analyzer
-AI Interview Bot
-Image Classifier
-Face Detection
-OCR App
-Voice Assistant
-Recommendation System
-RAG Chatbot
-AI Email Writer
-AI Code Assistant
-📍 ধাপ ১৮: Portfolio
-
-GitHub-এ রাখুন:
-
-Clean Code
-README
-Demo Video
-Live Project
-📍 ধাপ ১৯: Competitive Profile
-
-অ্যাকাউন্ট তৈরি করুন:
-
-GitHub
-Kaggle
-Hugging Face
-LinkedIn
-📍 ধাপ ২০: Job Preparation
-
-প্রস্তুতি নিন:
-
-Python Interview
-SQL Interview
-Machine Learning Interview
-LLM Interview
-System Design (AI)
-Coding Practice (LeetCode)
-🛠️ দৈনিক স্টাডি প্ল্যান (যদি দিনে ৩–৪ ঘণ্টা সময় দিতে পারেন)
-১ ঘণ্টা: Python/Math
-১ ঘণ্টা: AI/ML থিওরি
-১ ঘণ্টা: প্রজেক্ট তৈরি
-৩০–৬০ মিনিট: GitHub আপডেট ও সমস্যা সমাধান
-🎯 ১২ মাসের লক্ষ্য
-✅ Python-এ দক্ষতা
-✅ SQL ও Data Analysis
-✅ Machine Learning ও Deep Learning
-✅ LLM, Prompt Engineering, LangChain, RAG, AI Agents
-✅ ১০–১৫টি বাস্তব প্রজেক্ট
-✅ শক্তিশালী GitHub Portfolio
-✅ AI Engineer Internship বা Junior AI Engineer পজিশনের জন্য প্রস্তুত
+### 🇧🇩 বাংলা
+- Onnorokom Pathshala
+- 10 Minute School (Math)
+
+### 🇮🇳 হিন্দি
+- Gate Smashers
+- Physics Wallah
+- Unacademy (Free Videos)
+
+### 🌍 English
+- Khan Academy
+- 3Blue1Brown
+- StatQuest
+- MIT OpenCourseWare
+
+---
+
+# 📍 ধাপ ৩: Python Libraries
+
+## Libraries
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+## 📚 Free Learning Resources
+
+### 🇧🇩 বাংলা
+- Stack Learner
+- Programming Hero
+
+### 🇮🇳 হিন্দি
+- CodeWithHarry
+- CampusX
+
+### 🌍 English
+- freeCodeCamp
+- Data School
+- Keith Galli
+
+---
+
+# 📍 ধাপ ৪: SQL
+
+## 📚 Free Learning Resources
+
+### 🇧🇩 বাংলা
+- Stack Learner SQL
+- Anisul Islam SQL
+
+### 🇮🇳 হিন্দি
+- CodeWithHarry SQL
+- Apna College SQL
+
+### 🌍 English
+- SQLBolt
+- W3Schools SQL
+- freeCodeCamp SQL
+
+---
+
+# 📍 ধাপ ৫: Git & GitHub
+
+### 🇧🇩 বাংলা
+- Stack Learner Git & GitHub
+
+### 🇮🇳 হিন্দি
+- CodeWithHarry Git
+- Apna College Git
+
+### 🌍 English
+- GitHub Skills
+- freeCodeCamp
+- Traversy Media
+
+---
+
+# 📍 ধাপ ৬: Machine Learning
+
+### 🇧🇩 বাংলা
+- Stack Learner ML
+- Programming Hero AI Playlist
+
+### 🇮🇳 হিন্দি
+- CampusX
+- Krish Naik
+
+### 🌍 English
+- Andrew Ng (Machine Learning)
+- StatQuest
+- freeCodeCamp ML
+
+---
+
+# 📍 ধাপ ৭: Deep Learning
+
+### 🇧🇩 বাংলা
+- Stack Learner (Deep Learning)
+
+### 🇮🇳 হিন্দি
+- Krish Naik
+- CampusX
+
+### 🌍 English
+- DeepLearning.AI
+- freeCodeCamp
+- PyTorch Official Tutorials
+
+---
+
+# 📍 ধাপ ৮: NLP
+
+### 🇧🇩 বাংলা
+- Programming Hero AI Videos
+
+### 🇮🇳 হিন্দি
+- Krish Naik NLP
+
+### 🌍 English
+- Hugging Face Course
+- DeepLearning.AI NLP
+- freeCodeCamp NLP
+
+---
+
+# 📍 ধাপ ৯: LLM
+
+### 🇧🇩 বাংলা
+- Stack Learner AI
+- Programming Hero AI
+
+### 🇮🇳 হিন্দি
+- Krish Naik
+- CampusX
+
+### 🌍 English
+- Hugging Face Course
+- DeepLearning.AI
+- Andrej Karpathy
+- OpenAI Cookbook
+
+---
+
+# 📍 ধাপ ১০: Prompt Engineering
+
+### 🌍 English
+- DeepLearning.AI Prompt Engineering
+- OpenAI Cookbook
+- Anthropic Prompt Engineering Guides
+
+---
+
+# 📍 ধাপ ১১: LangChain
+
+### 🌍 English
+- LangChain Documentation
+- LangChain YouTube
+- freeCodeCamp
+
+---
+
+# 📍 ধাপ ১২: RAG
+
+### 🌍 English
+- LangChain Docs
+- LlamaIndex Docs
+- Pinecone Learn
+
+---
+
+# 📍 ধাপ ১৩: AI Agents
+
+### 🌍 English
+- LangGraph Docs
+- CrewAI Docs
+- Microsoft AutoGen Docs
+
+---
+
+# 📍 ধাপ ১৪: Deployment
+
+### 🌍 English
+- FastAPI Docs
+- Docker Docs
+- Render Docs
+- Hugging Face Spaces Docs
+
+---
+
+# 📍 ধাপ ১৫: MLOps
+
+### 🌍 English
+- MLflow Docs
+- DVC Docs
+- Docker Docs
+
+---
+
+# 📍 ধাপ ১৬: Cloud
+
+### 🌍 English
+- AWS Skill Builder
+- Google Cloud Skills Boost
+- Microsoft Learn
+
+---
